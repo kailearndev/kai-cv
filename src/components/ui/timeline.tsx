@@ -36,12 +36,15 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
       className="w-full bg-white dark:bg-neutral-950 font-sans md:px-10"
       ref={containerRef}
     >
-      <div className="max-w-7xl mx-auto py-20 px-4 md:px-8 lg:px-10">
+      <div className="max-w-7xl mx-auto  px-4 md:px-8 lg:px-10">
         <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white max-w-3xl">
           With 4 years of experience in Front-End React Development,
-          I am currently working towards becoming a Full Stack Developer.
+
         </h2>
-        I have contributed to a wide range of software development projects. Here’s a timeline of my journey:
+        <h2 className="text-lg md:text-xl mb-4 text-black dark:text-white max-w-3xl">
+          I am currently working towards becoming a Full Stack Developer.
+          I have contributed to a wide range of software development projects. Here’s a timeline of my journey
+        </h2>
       </div>
 
       <div ref={ref} className="relative max-w-7xl mx-auto pb-20">
