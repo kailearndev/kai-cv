@@ -1,0 +1,94 @@
+{
+    "HomePage": {
+        "title": "ホームページ",
+        "about": "情報のページへ"
+    },
+    "Navbar": {
+        "infomation": "情報",
+        "project": "プロジェクト",
+        "about": "連絡"
+    },
+    "Intro": {
+        "line_1": "こんにちは、ルアン（カイ）です。",
+        "highlight": " ウェブ開発者。",
+        "line_2": "お会いできて嬉しいです。"
+    },
+    "Infomation": {
+        "time_line_bm": "2023年 ～ 2025年",
+        "time_line_scb": "2021年 ～ 2023年",
+        "time_line_personal": "2024年",
+        "smbm": {
+            "title": "SM Town (QR Scanning / Fandom Platform)",
+            "des": " デジタ  ルパスポートとK-POPファン向けメンバーシップサービス。QRコードとGPSでスタンプを収集。FigmaでのUI実装、Google API連携、ダッシュボード開発。"
+        },
+        "scb": {
+            "company": "SCB銀行",
+            "time": "2021年 ～ 2023年",
+            "title": "CRMとローン管理システム",
+            "des": "社内システムであるCRMとローン管理システムの2つのWebアプリ開発に携わりました。UIの実装、業務ロジック、テスト、保守を担当しました。ReactとTypeScriptを使用し、セキュリティ対応やドキュメント作成にも関わりました。"
+        },
+        "onepick": {
+            "title": "OnePick (Global Audition Platform)",
+            "des": "グローバルオーディションプラットフォーム。チャット機能、評価システム、管理画面の構築を担当。"
+        },
+        "joblist": {
+            "company": "個人プロジェクト",
+            "title": "応募企業リスト管理システム",
+            "des": "面接・応募した会社を管理するフルスタックWebアプリ。React、MongoDB、Express、MUI、JWT認証を使用。"
+        },
+        "ecommerce": {
+            "company": "個人プロジェクト",
+            "title": "シンプルなカート付きECサイト",
+            "des": "MERNスタック（React、Express、MySQL）を使ったECサイト。Vercelにデプロイ。"
+        },
+        "iposture": {
+            "title": "iPosture (Posture Analysis & Health)",
+            "des": "姿勢を分析し、エクササイズや施設を提案するヘルスケアサービス。MLKitを使って姿勢検出、Webダッシュボードの実装。"
+        },
+        "title": "私のことを少しだけ。",
+        "summary": "フロントエンド開発者として4年間の経験があります。ReactやUI/UXデザインを使ったプロジェクトを担当してきました。仕事を通して、Web開発・チームワーク・問題解決力を身につけました。現在はフルスタックエンジニアを目指して、バックエンドの勉強もしています。"
+    },
+    "position": "フロントエンド開発者",
+    "language": "言語",
+    "contact": {
+        "1": "お",
+        "2": "問い",
+        "3": "合わせ",
+        "mail": "メールを送る",
+        "download": "履歴書をダウンロード",
+        "mailto": "mailto:kaidev@gmail.com?subject=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFKai%E3%81%95%E3%82%93&body=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFKai%E3%81%95%E3%82%93%E3%80%82%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%82%92%E8%A6%8B%E3%81%A6%E8%81%96%E3%81%84%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%81%94%E7%B5%A1%E7%B9%9A%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%82%8B%E3%81%A8%E5%B9%B8%E3%81%84%E3%81%A7%E3%81%99%E3%80%82"
+    },
+    "techstack": {
+        "title": "私の技術スタック"
+    },
+    "career": {
+        "title": "職歴タイムライン",
+        "steps": {
+            "1": {
+                "year": "2014年～2018年",
+                "title": "大学",
+                "desc": "情報技術を専攻し、プログラミングやWeb開発、ソフトウェア工学の基礎を学びました。"
+            },
+            "2": {
+                "year": "2018年～2021年",
+                "title": "東京さくら日本語学校",
+                "desc": "東京で日本語と日本文化を学びました。日本社会への理解を深め、コミュニケーション能力を身につけました。"
+            },
+            "3": {
+                "year": "2021年～2023年",
+                "title": "SCB銀行",
+                "desc": "フロントエンドエンジニアとしてCRMシステムとローン管理システムを開発。ReactとTypeScriptを使用し、UI開発やテスト、保守を担当しました。"
+            },
+            "4": {
+                "year": "2023年～2025年",
+                "title": "Brickmate",
+                "desc": "日本や韓国のクライアント向けのプロジェクトに参加：SM Town（ファンダム）、iPosture（姿勢分析）、OnePick（オーディション）。Next.jsとTypeScriptでレスポンシブなダッシュボードを開発。"
+            },
+            "5": {
+                "year": "現在",
+                "title": "バックエンドを学習中",
+                "desc": "フルスタックエンジニアを目指して、NestJSとGolangを学習中です。"
+            }
+        }
+    }
+}

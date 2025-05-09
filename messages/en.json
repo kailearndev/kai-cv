@@ -1,0 +1,93 @@
+{
+    "HomePage": {
+        "title": "Hello world!",
+        "about": "Go to the about page"
+    },
+    "Navbar": {
+        "infomation": "Infomation",
+        "project": "Project",
+        "about": "About"
+    },
+    "Intro": {
+        "line_1": "i'm Luan (kai)",
+        "highlight": " Web developer.",
+        "line_2": "Welcome"
+    },
+    "Infomation": {
+        "smbm": {
+            "title": "SM Town (QR Scanning / Fandom Platform)",
+            "des": "A digital passport and K-POP membership service. Users collect stamps via QR code and GPS. Responsible for UI implementation from Figma, Google API integration, and dashboard development."
+        },
+        "onepick": {
+            "title": "OnePick (Global Audition Platform)",
+            "des": "A global audition and media platform with chat and rating features. In charge of building the UI, implementing APIs, and integrating with EformSign."
+        },
+        "iposture": {
+            "title": "iPosture (Posture Analysis & Health)",
+            "des": "A healthcare system that analyzes posture using MLKit and recommends exercises or centers. Worked on the web dashboard and replaced unsupported MG Kit features with custom solutions."
+        },
+        "scb": {
+            "company": "SCB Bank",
+            "time": "2021 – 2023",
+            "title": "CRM & Loan Systems",
+            "des": "Worked on two internal web applications: CRM and Loan management system. Handled UI implementation, business logic, testing, and maintenance. Built with React and TypeScript. Involved in security improvements and documentation."
+        },
+        "joblist": {
+            "company": "Personal Project",
+            "title": "List Company Applied",
+            "des": "A full-stack web app to track job applications and interviews. Built with React, MongoDB, Express, MUI, and JWT authentication."
+        },
+        "ecommerce": {
+            "company": "Personal Project",
+            "title": "Simple Cart E-commerce",
+            "des": "A simple e-commerce site built with the MERN stack (React, Express, MySQL). Deployed on Vercel."
+        },
+        "time_line_personal": "2024",
+        "time_line_bm": "2023 ～ 2025",
+        "time_line_scb": "2021 ～ 2023",
+        "title": "A Little Bit About Me",
+        "summary": "I’m a frontend developer with 4 years of experience working with React and UI/UX design. Through different projects, I’ve gained strong skills in web development, teamwork, and problem-solving. I’m now expanding my knowledge in backend to become a full-stack engineer."
+    },
+    "language": "Language",
+    "contact": {
+        "1": "Contact",
+        "2": "with",
+        "3": "me",
+        "mail": "Mail",
+        "download": "Download",
+        "mailto": "mailto:kaidev@gmail.com?subject=Hi%20Kai&body=Hi%20Kai%2C%0AI%20saw%20your%20portfolio%20and%20would%20love%20to%20connect!"
+    },
+    "techstack": {
+        "title": "My Tech Stack"
+    },
+    "career": {
+        "title": "Career Timeline",
+        "steps": {
+            "1": {
+                "year": "2014 – 2018",
+                "title": "University",
+                "desc": "Studied Information Technology. Learned basic programming, web development, and software engineering."
+            },
+            "2": {
+                "year": "2018 – 2021",
+                "title": "Tokyo Sakura Japanese Language School",
+                "desc": "Studied Japanese language and culture in Tokyo. Gained communication skills and deepened understanding of Japanese society."
+            },
+            "3": {
+                "year": "2021 – 2023",
+                "title": "SCB Bank",
+                "desc": "Worked as a Frontend Developer on CRM and Loan management systems. Used React and TypeScript for UI development, testing, and maintenance."
+            },
+            "4": {
+                "year": "2023 – 2025",
+                "title": "Brickmate Group",
+                "desc": "Worked with Japanese and Korean clients on projects like SM Town (fandom), iPosture (posture analysis), and OnePick (audition platform). Built responsive dashboards with Next.js and TypeScript."
+            },
+            "5": {
+                "year": "Now",
+                "title": "Learning Backend",
+                "desc": "Currently learning NestJS and Golang to become a full-stack developer."
+            }
+        }
+    }
+}
